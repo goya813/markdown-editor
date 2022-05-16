@@ -1,4 +1,8 @@
 .nuxt
+node_modules/
+dist/*
 
 # Gatsby files
 .cache/
+
+!.gitkeep
